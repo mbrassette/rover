@@ -1,0 +1,11 @@
+C:\proj\backend\Interview\bin\Debug\netcoreapp2.0\SkyKick.Interview.deps.json
+C:\proj\backend\Interview\bin\Debug\netcoreapp2.0\SkyKick.Interview.runtimeconfig.json
+C:\proj\backend\Interview\bin\Debug\netcoreapp2.0\SkyKick.Interview.runtimeconfig.dev.json
+C:\proj\backend\Interview\bin\Debug\netcoreapp2.0\SkyKick.Interview.dll
+C:\proj\backend\Interview\bin\Debug\netcoreapp2.0\SkyKick.Interview.pdb
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\Interview.csprojResolveAssemblyReference.cache
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\Interview.csproj.CoreCompileInputs.cache
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\Interview.AssemblyInfoInputs.cache
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\Interview.AssemblyInfo.cs
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\SkyKick.Interview.dll
+C:\proj\backend\Interview\obj\Debug\netcoreapp2.0\SkyKick.Interview.pdb
